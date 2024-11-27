@@ -1,0 +1,94 @@
+{
+  "skillAInfo": [
+    {
+      "DataId": 0,
+      "Name": "일반 경험치 책(캐릭터)",
+      "Description": "캐릭터 경험치를 올려주는 아이템",
+      "Exp": 10.0
+    },
+    {
+      "DataId": 1,
+      "Name": "고급 경험치 책(캐릭터)",
+      "Description": "캐릭터 경험치를 올려주는 아이템",
+      "Exp": 20.0
+    },
+    {
+      "DataId": 2,
+      "Name": "희귀 경험치 책(캐릭터)",
+      "Description": "캐릭터 경험치를 올려주는 아이템",
+      "Exp": 30.0
+    },
+    {
+      "DataId": 3,
+      "Name": "영웅 경험치 책(캐릭터)",
+      "Description": "캐릭터 경험치를 올려주는 아이템",
+      "Exp": 40.0
+    },
+    {
+      "DataId": 4,
+      "Name": "전설 경험치 책(캐릭터)",
+      "Description": "캐릭터 경험치를 올려주는 아이템",
+      "Exp": 50.0
+    },
+    {
+      "DataId": 5,
+      "Name": "일반 경험치 책(무장)",
+      "Description": "무장 경험치를 올려주는 아이템",
+      "Exp": 10.0
+    },
+    {
+      "DataId": 6,
+      "Name": "고급 경험치 책(무장)",
+      "Description": "무장 경험치를 올려주는 아이템",
+      "Exp": 20.0
+    },
+    {
+      "DataId": 7,
+      "Name": "희귀 경험치 책(무장)",
+      "Description": "무장 경험치를 올려주는 아이템",
+      "Exp": 30.0
+    },
+    {
+      "DataId": 8,
+      "Name": "영웅 경험치 책(무장)",
+      "Description": "무장 경험치를 올려주는 아이템",
+      "Exp": 40.0
+    },
+    {
+      "DataId": 9,
+      "Name": "전설 경험치 책(무장)",
+      "Description": "무장 경험치를 올려주는 아이템",
+      "Exp": 50.0
+    },
+    {
+      "DataId": 10,
+      "Name": "불에 타지 않는 나무가지",
+      "Description": "불속성 캐릭터 특성 재료",
+      "Exp": 0.0
+    },
+    {
+      "DataId": 11,
+      "Name": "물을 머금은 나무가지",
+      "Description": "물속성 캐릭터 특성 재료",
+      "Exp": 0.0
+    },
+    {
+      "DataId": 12,
+      "Name": "젖과 꿀이 흐르는 나무가지",
+      "Description": "풀속성 캐릭터 특성 재료",
+      "Exp": 0.0
+    },
+    {
+      "DataId": 13,
+      "Name": "공허가 담긴 나무가지",
+      "Description": "어둠속성 캐릭터 특성 재료",
+      "Exp": 0.0
+    },
+    {
+      "DataId": 14,
+      "Name": "피가 흐르는 나무가지",
+      "Description": "빛속성 캐릭터 특성 재료",
+      "Exp": 0.0
+    }
+  ]
+}

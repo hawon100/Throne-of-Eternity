@@ -1,0 +1,39 @@
+{
+  "skillAInfo": [
+    {
+      "DataId": 0,
+      "Name": "연염",
+      "Description": "불꽃이 나오르는 모습을 강조한 이름.",
+      "SkillDamage": 100.0,
+      "Type": "0"
+    },
+    {
+      "DataId": 1,
+      "Name": "해일",
+      "Description": "거대한 파도를 소환하는 기술",
+      "SkillDamage": 100.0,
+      "Type": "1"
+    },
+    {
+      "DataId": 2,
+      "Name": "자연의 분노",
+      "Description": "자연의 힘으로 강렬히 공격",
+      "SkillDamage": 100.0,
+      "Type": "2"
+    },
+    {
+      "DataId": 3,
+      "Name": "암흑 연무",
+      "Description": "적을 혼란시키는 어둠의 안개",
+      "SkillDamage": 520.0,
+      "Type": "3"
+    },
+    {
+      "DataId": 4,
+      "Name": "라이트 브레이커",
+      "Description": "강렬한 빛으로 적을 부수는 기술",
+      "SkillDamage": 1000.0,
+      "Type": "4"
+    }
+  ]
+}

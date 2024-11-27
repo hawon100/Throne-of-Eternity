@@ -17,8 +17,44 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 3464c92e85a2e2b488c4ee306354043f
   m_SerializeEntries:
-  - m_GUID: 5d418efd81401c249a291b8bc2c6c6d4
-    m_Address: TestData
+  - m_GUID: 5bd678b1bb212a34fbeaad43fc5a5d50
+    m_Address: DefaultSkillData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 308c7b8a71d90024c90ab92f7da77c1a
+    m_Address: EnemyData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53b6105c0e2d2c54286f5f6d168c6ede
+    m_Address: EquipmentData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ede087bac616c34195cf55a8a3a3296
+    m_Address: HeroData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53c79e4fab2081c43a9c2951eb064a1f
+    m_Address: LevelMaterialData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ac350263aa5f5c469c8bdb45fcdeb11
+    m_Address: SkillAData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58b1acbad884d624cb150d43567e896c
+    m_Address: SkillBData
     m_ReadOnly: 0
     m_SerializedLabels:
     - PreLoad

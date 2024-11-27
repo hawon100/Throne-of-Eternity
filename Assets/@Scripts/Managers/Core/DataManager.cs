@@ -10,11 +10,23 @@ public interface ILoader<Key, Value>
 
 public class DataManager
 {
-	public Dictionary<int, Data.TestData> TestDic { get; private set; } = new Dictionary<int, Data.TestData>();
+	public Dictionary<int, Data.HeroData> HeroDic { get; private set; } = new Dictionary<int, Data.HeroData>();
+	public Dictionary<int, Data.EnemyData> EnemyDic { get; private set; } = new Dictionary<int, Data.EnemyData>();
+	public Dictionary<int, Data.EquipmentData> EquipmentDic { get; private set; } = new Dictionary<int, Data.EquipmentData>();
+	public Dictionary<int, Data.DefaultSkillData> DefaultSkillDic { get; private set; } = new Dictionary<int, Data.DefaultSkillData>();
+	public Dictionary<int, Data.SkillAData> SkillADic { get; private set; } = new Dictionary<int, Data.SkillAData>();
+	public Dictionary<int, Data.SkillBData> SkillBDic { get; private set; } = new Dictionary<int, Data.SkillBData>();
+	public Dictionary<int, Data.LevelMaterialData> LevelMaterialDic { get; private set; } = new Dictionary<int, Data.LevelMaterialData>();
 
 	public void Init()
 	{
-		TestDic = LoadJson<Data.TestDataLoader, int, Data.TestData>("TestData").MakeDict();
+		HeroDic = LoadJson<Data.HeroDataLoader, int, Data.HeroData>("HeroData").MakeDict();
+		EnemyDic = LoadJson<Data.EnemyDataLoader, int, Data.EnemyData>("EnemyData").MakeDict();
+        EquipmentDic = LoadJson<Data.EquipmentDataLoader, int, Data.EquipmentData>("EquipmentData").MakeDict();
+        DefaultSkillDic = LoadJson<Data.DefaultSkillDataLoader, int, Data.DefaultSkillData>("DefaultSkillData").MakeDict();
+        SkillADic = LoadJson<Data.SkillADataLoader, int, Data.SkillAData>("SkillAData").MakeDict();
+        SkillBDic = LoadJson<Data.SkillBDataLoader, int, Data.SkillBData>("SkillBData").MakeDict();
+        LevelMaterialDic = LoadJson<Data.LevelMaterialDataLoader, int, Data.LevelMaterialData>("LevelMaterialData").MakeDict();
 	}
 
 	private Loader LoadJson<Loader, Key, Value>(string path) where Loader : ILoader<Key, Value>

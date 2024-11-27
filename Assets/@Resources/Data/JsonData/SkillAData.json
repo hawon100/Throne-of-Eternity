@@ -1,0 +1,39 @@
+{
+  "skillAInfo": [
+    {
+      "DataId": 0,
+      "Name": "파이어 블래스트",
+      "Description": "강력한 불길을 폭발시키는 기술.",
+      "SkillDamage": 5.0,
+      "Type": "0"
+    },
+    {
+      "DataId": 1,
+      "Name": "아쿠아 슬래쉬",
+      "Description": "물의 칼날로 공격",
+      "SkillDamage": 5.0,
+      "Type": "1"
+    },
+    {
+      "DataId": 2,
+      "Name": "바인 그랩",
+      "Description": "덩굴로 적을 붙잡는 스킬",
+      "SkillDamage": 10.0,
+      "Type": "2"
+    },
+    {
+      "DataId": 3,
+      "Name": "섀도우 클로",
+      "Description": "어둠의 손톱으로 공격",
+      "SkillDamage": 200.0,
+      "Type": "3"
+    },
+    {
+      "DataId": 4,
+      "Name": "광휘의 검",
+      "Description": "빛으로 이루어진 신성한 검",
+      "SkillDamage": 10000.0,
+      "Type": "4"
+    }
+  ]
+}

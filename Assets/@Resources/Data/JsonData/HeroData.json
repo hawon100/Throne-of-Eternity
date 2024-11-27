@@ -1,0 +1,69 @@
+{
+  "hero": [
+    {
+      "DataId": 0,
+      "Name": "화령",
+      "Description": "[화려한 영혼]을 뜻하며 불의 아름다움과 힘을 동시에 표현합니다.",
+      "Attack": 10.0,
+      "Defence": 10.0,
+      "SkillDamage": 100.0,
+      "Type": "0",
+      "Grade": "0",
+      "DefaultSkill": 1,
+      "SkillA": 1,
+      "SkillB": 1
+    },
+    {
+      "DataId": 1,
+      "Name": "청류",
+      "Description": "[푸른 물결]을 뜻하며 물의 맑고 잔잔한 이미지를 담았습니다.",
+      "Attack": 10.0,
+      "Defence": 10.0,
+      "SkillDamage": 100.0,
+      "Type": "1",
+      "Grade": "0",
+      "DefaultSkill": 4,
+      "SkillA": 2,
+      "SkillB": 2
+    },
+    {
+      "DataId": 2,
+      "Name": "서록",
+      "Description": "[행운을 상징하는 푸르름]이라는 뜻으로 생명의 기운을 담았습니다.",
+      "Attack": 10.0,
+      "Defence": 10.0,
+      "SkillDamage": 100.0,
+      "Type": "2",
+      "Grade": "0",
+      "DefaultSkill": 7,
+      "SkillA": 3,
+      "SkillB": 3
+    },
+    {
+      "DataId": 3,
+      "Name": "흑령",
+      "Description": "[어둠의 영혼]이라는 뜻으로 어둠의 신비와 힘을 상징합니다.",
+      "Attack": 10.0,
+      "Defence": 10.0,
+      "SkillDamage": 100.0,
+      "Type": "3",
+      "Grade": "1",
+      "DefaultSkill": 10,
+      "SkillA": 4,
+      "SkillB": 4
+    },
+    {
+      "DataId": 4,
+      "Name": "현광",
+      "Description": "[눈부신 빛]이라는 뜻으로 빛의 찬란함과 강렬함을 표현합니다.",
+      "Attack": 10.0,
+      "Defence": 10.0,
+      "SkillDamage": 100.0,
+      "Type": "4",
+      "Grade": "4",
+      "DefaultSkill": 13,
+      "SkillA": 5,
+      "SkillB": 5
+    }
+  ]
+}

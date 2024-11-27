@@ -1,0 +1,54 @@
+{
+  "equipment": [
+    {
+      "DataId": 0,
+      "Name": "가죽 흉갑",
+      "Description": "약하게 맞을 수 있습니다.",
+      "Attack": 0.0,
+      "Defence": 50.0,
+      "SkillDamage": 0.0,
+      "Type": "0",
+      "Grade": "0"
+    },
+    {
+      "DataId": 1,
+      "Name": "가죽 투구",
+      "Description": "약하게 맞을 수 있습니다.",
+      "Attack": 0.0,
+      "Defence": 50.0,
+      "SkillDamage": 0.0,
+      "Type": "1",
+      "Grade": "0"
+    },
+    {
+      "DataId": 2,
+      "Name": "검",
+      "Description": "찌를 수 있어~",
+      "Attack": 1200.0,
+      "Defence": 25.0,
+      "SkillDamage": 5000.0,
+      "Type": "2",
+      "Grade": "2"
+    },
+    {
+      "DataId": 3,
+      "Name": "권총",
+      "Description": "쏠 수 있어~",
+      "Attack": 200.0,
+      "Defence": 0.0,
+      "SkillDamage": 0.0,
+      "Type": "3",
+      "Grade": "1"
+    },
+    {
+      "DataId": 4,
+      "Name": "방패",
+      "Description": "막을 수 있어~",
+      "Attack": 0.0,
+      "Defence": 235.0,
+      "SkillDamage": 5000.0,
+      "Type": "4",
+      "Grade": "4"
+    }
+  ]
+}

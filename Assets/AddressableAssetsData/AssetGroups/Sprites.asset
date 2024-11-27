@@ -16,13 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 251f8d98680973a4caa08c0fe792b3ff
-  m_SerializeEntries:
-  - m_GUID: 9e9a97fa10743de468e835b553974a09
-    m_Address: Object_Firewood.sprite
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: aee33bf7016e737499a647dc99b0806b, type: 2}
   m_SchemaSet:

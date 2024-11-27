@@ -1,0 +1,109 @@
+{
+  "defaultSkillInfo": [
+    {
+      "DataId": 0,
+      "Name": "근접 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "0"
+    },
+    {
+      "DataId": 1,
+      "Name": "원거리 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "0"
+    },
+    {
+      "DataId": 2,
+      "Name": "마법 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "0"
+    },
+    {
+      "DataId": 3,
+      "Name": "근접 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "1"
+    },
+    {
+      "DataId": 4,
+      "Name": "원거리 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "1"
+    },
+    {
+      "DataId": 5,
+      "Name": "마법 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "1"
+    },
+    {
+      "DataId": 6,
+      "Name": "근접 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "2"
+    },
+    {
+      "DataId": 7,
+      "Name": "원거리 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "2"
+    },
+    {
+      "DataId": 8,
+      "Name": "마법 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "2"
+    },
+    {
+      "DataId": 9,
+      "Name": "근접 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "3"
+    },
+    {
+      "DataId": 10,
+      "Name": "원거리 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "3"
+    },
+    {
+      "DataId": 11,
+      "Name": "마법 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "3"
+    },
+    {
+      "DataId": 12,
+      "Name": "근접 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "4"
+    },
+    {
+      "DataId": 13,
+      "Name": "원거리 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "4"
+    },
+    {
+      "DataId": 14,
+      "Name": "마법 공격",
+      "Description": "기본 공격",
+      "SkillDamage": 5.0,
+      "Type": "4"
+    }
+  ]
+}
