@@ -10,6 +10,7 @@ public class UI_GameScene : UI_Scene
         ProfileImage,
         CharacterLevelPanel,
         CharacterImage,
+        CharacterStatusPanel,
     }
 
     public enum Buttons
@@ -26,7 +27,9 @@ public class UI_GameScene : UI_Scene
 
     public enum Texts
     {
-        ProfileName,
+        ProfileNameText,
+        LevelText,
+        AttackStatusText,
     }
 
     public override bool Init()
